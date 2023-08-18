@@ -1,6 +1,6 @@
 # s21_containers
 
-Реализация библиотеки s21_containers.h.
+Собственная реализация библиотеки s21_containers.h.
 
 
 ## Contents
